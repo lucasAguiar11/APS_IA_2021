@@ -2,8 +2,8 @@
 # TUBERCULOSE - CASOS CONFIRMADOS NOTIFICADOS NO SISTEMA DE INFORMAÇÃO DE AGRAVOS DE NOTIFICAÇÃO - BRASIL
 ### http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinannet/cnv/tubercbr.def
 
-Nome: Lucas Aguiar Cardoso Abreu
-Ra: 2288790
+  Nome: Lucas Aguiar Cardoso Abreu
+  Ra: 2288790
 
 # Tuberculose - Sexo
 
